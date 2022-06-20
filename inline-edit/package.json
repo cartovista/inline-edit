@@ -1,0 +1,7 @@
+{
+  "name": "@atlaskit/inline-edit/inline-edit",
+  "main": "../dist/cjs/entry-points/inline-edit.js",
+  "module": "../dist/esm/entry-points/inline-edit.js",
+  "module:es2019": "../dist/es2019/entry-points/inline-edit.js",
+  "types": "../dist/types/entry-points/inline-edit.d.ts"
+}

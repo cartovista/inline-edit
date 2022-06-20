@@ -1,0 +1,7 @@
+{
+  "name": "@atlaskit/inline-edit/inline-editable-textfield",
+  "main": "../dist/cjs/entry-points/inline-editable-textfield.js",
+  "module": "../dist/esm/entry-points/inline-editable-textfield.js",
+  "module:es2019": "../dist/es2019/entry-points/inline-editable-textfield.js",
+  "types": "../dist/types/entry-points/inline-editable-textfield.d.ts"
+}
